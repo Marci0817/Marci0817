@@ -1,7 +1,7 @@
 ## Hi, It's Marci 👋 
 
 - I'm currently learning at a secondary school in Szeged, Hungary.  
-- I have an intermediate language exam ( B2 ).
+- My new years resolution is to contribute more projects. :) 
 
 <br />
 
