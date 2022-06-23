@@ -2,7 +2,6 @@
 
 - I'm currently learning at a secondary school in Szeged, Hungary.  
 - My new years resolution is to contribute more projects. :) 
-- Member of ESX Project
 
 <br />
 
