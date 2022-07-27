@@ -1,7 +1,6 @@
 ## Hi, It's Marci 👋 
 
 - I'm currently learning at a secondary school in Szeged, Hungary.  
-- My new years resolution is to contribute more projects. :) 
 
 <br />
 
