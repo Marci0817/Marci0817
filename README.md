@@ -1,6 +1,6 @@
 ## Hi, It's Marci 👋 
 
-- I'm currently learning at a secondary school in Szeged, Hungary.  
+- I'm motivated about learning new technologies.
 
 <br />
 
