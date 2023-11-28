@@ -1,5 +1,11 @@
 ###
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Marci0817&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=4&theme=dracula&hide_border=true&order=2" height="149" alt="languages graph"  />
+</div>
+
+###
+
 <br clear="both">
 
 <div align="center">
@@ -23,5 +29,5 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Marci0817&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=4&theme=dracula&hide_border=true&order=2" height="149" alt="languages graph"  />
+  <img src="https://raw.githubusercontent.com/Marci0817/Marci0817/output/snake.svg" alt="Snake animation" />
 </div>
